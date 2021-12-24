@@ -1,0 +1,16 @@
+.footer-main{
+    background: linear-gradient(
+        90deg, rgb(145 30 30 / 72%) 0%, rgb(190 176 89) 100%);
+        
+}
+.text-align-center{
+    text-align: center;
+}
+.footer-main p{
+    color: aliceblue;
+}
+
+.app-color{
+    background: linear-gradient(
+        90deg, rgb(145 30 30 / 72%) 0%, rgb(190 176 89) 100%);
+}
